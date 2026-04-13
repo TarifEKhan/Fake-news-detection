@@ -1,6 +1,13 @@
-data/
-models/
-outputs/
+# Keep folder structure but ignore contents
+
+data/*
+!data/.gitkeep
+
+models/*
+!models/.gitkeep
+
+outputs/*
+!outputs/.gitkeep
 
 # ML-specific additions
 
