@@ -1,3 +1,7 @@
+data/
+models/
+outputs/
+
 # ML-specific additions
 
 # Datasets
