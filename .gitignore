@@ -1,3 +1,25 @@
+# ML-specific additions
+
+# Datasets
+data/
+datasets/
+*.csv
+
+# Model files
+*.pt
+*.pth
+*.h5
+*.bin
+
+# Hugging Face
+.cache/
+huggingface/
+
+# Training outputs
+runs/
+logs/
+outputs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
