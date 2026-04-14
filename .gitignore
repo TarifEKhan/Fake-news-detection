@@ -9,12 +9,6 @@ models/*
 outputs/*
 !outputs/.gitkeep
 
-notebooks/*
-!notebooks/.gitkeep
-
-src/*
-!src/.gitkeep
-
 # ML-specific additions
 
 # Datasets
