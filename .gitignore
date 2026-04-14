@@ -9,10 +9,16 @@ models/*
 outputs/*
 !outputs/.gitkeep
 
+notebooks/*
+!notebooks/.gitkeep
+
+src/*
+!src/.gitkeep
+
 # ML-specific additions
 
 # Datasets
-data/
+
 datasets/
 *.csv
 
@@ -29,11 +35,11 @@ huggingface/
 # Training outputs
 runs/
 logs/
-outputs/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[codz]
+*.py[cod]
 *$py.class
 
 # C extensions
